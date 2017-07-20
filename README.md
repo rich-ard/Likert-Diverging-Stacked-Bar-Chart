@@ -1,5 +1,9 @@
-# Likert-Diverging-Stacked-Bar-Chart
+Likert-Diverging-Stacked-Bar-Chart
+----------------------------------
 
-## R function for producing diverging stacked-bar charts for Likert scale data
+Still working on this - a function to build diverging stacked-bar charts in R for use in presenting Likert-scale data.
 
-Still testing.
+Things I would like this to do:
+
+- Allow for entry of data labels to replace generic column labels (e.g. 'q1' retitled to 'How effective was this script?')
+- Accept familiar color syntax
